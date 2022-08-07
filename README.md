@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on nodejs projects
 - 📫 mail me here, akashmadduru@gmail.com
-- akashmadduru.in
+- https://www.akashmadduru.in
